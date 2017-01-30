@@ -1,3 +1,6 @@
-# Essential Ruby on Rails 5
+# Steps to Ruby on Rails 5 CMS project:
 
-This is a learning exercise from Lynda.com with Kevin Skoglund on essentials of Ruby on Rails 5.
+
+* Created new rails project with interaction to mysql database
+* Performed CLI bundle install to include dependencies via Gemfile
+* Modified database.yml file to insert username and password
