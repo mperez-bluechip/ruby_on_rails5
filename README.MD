@@ -8,3 +8,4 @@
 * Gem installed sqlite3
 * Rails installed controller demo index file
 * Added root routing to routes.rb
+* Added redirects to DemoController
