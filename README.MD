@@ -6,4 +6,5 @@
 * Modified database.yml file to insert username and password
 * Added database schema.rb file via CLI rails command
 * Gem installed sqlite3
-* Rails installed controller demo index file 
+* Rails installed controller demo index file
+* Added root routing to routes.rb
