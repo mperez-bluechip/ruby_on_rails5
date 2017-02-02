@@ -9,3 +9,5 @@
 * Rails installed controller demo index file
 * Added root routing to routes.rb
 * Added redirects to DemoController
+* Working with template rendering, redirects, view templating,
+  instance variables, links, and URL parameters
