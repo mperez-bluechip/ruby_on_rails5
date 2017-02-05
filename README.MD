@@ -12,6 +12,7 @@
 * Working with template rendering, redirects, view templating  ,
   instance variables, links, and URL parameters
 * Added migrations via rails generate model User command with user info
+* Altered users table via rails generate migration AlterUsers command
 
 # Error Fixes:
 
