@@ -11,3 +11,9 @@
 * Added redirects to DemoController
 * Working with template rendering, redirects, view templating  ,
   instance variables, links, and URL parameters
+* Added migrations via rails generate model User command with user info
+
+# Error Fixes:
+
+* Gem install of mysql2 fixed by downloading xcode-select and running bundle  
+  install
