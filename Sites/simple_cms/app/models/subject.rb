@@ -1,5 +1,7 @@
 class Subject < ApplicationRecord
 
+  has_many :pages
+
   scope :first_sbj, lambda { where(:name => 'First Subject') }
   scope :second_sbj, lambda { where(:name => 'Next Subject') }
   scope :sorted, lambda { order("name ASC") }
