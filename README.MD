@@ -14,6 +14,9 @@
 * Added migrations via rails generate model User command with user info
 * Altered users table via rails generate migration AlterUsers command
 * Adding page section and subject models via rails g migration command
+* Using CRUD for records, query methods for conditions, order and offsets
+* Established one to one, one to many and many to many relationships via
+  rails console commands
 
 # Error Fixes:
 
